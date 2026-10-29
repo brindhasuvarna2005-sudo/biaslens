@@ -1,0 +1,7 @@
+model,contrast,a,b,gap,p
+MiniLM,REAL vs fictitious (both short),tier1_real_short,fict_short,5.0016097e-05,0.8784771
+MiniLM,LONG vs short (both fictitious),tier3_fict_long,fict_short,-0.0069701653,0.10489511
+MiniLM,REAL vs fictitious (both long),tier2_real_long,tier3_fict_long,0.00877811,0.037917636
+bge-base,REAL vs fictitious (both short),tier1_real_short,fict_short,0.0029869438,0.32820514
+bge-base,LONG vs short (both fictitious),tier3_fict_long,fict_short,-0.0031195171,0.2786325
+bge-base,REAL vs fictitious (both long),tier2_real_long,tier3_fict_long,0.0074374517,0.0006216006

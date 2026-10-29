@@ -1,0 +1,353 @@
+label,gender,adj,model,exp,group
+Aditya Kulkarni,male,-0.00490746,MiniLM,name,
+Amit Verma,male,0.0062681786,MiniLM,name,
+Ananya Banerjee,female,0.02066856,MiniLM,name,
+Anirban Sen,male,0.0013481091,MiniLM,name,
+Anjali Singh,female,0.01396853,MiniLM,name,
+Ankit Malhotra,male,0.012756267,MiniLM,name,
+Anusha Reddy,female,0.024936281,MiniLM,name,
+Arjun Kapoor,male,0.0029536772,MiniLM,name,
+Arnab Chatterjee,male,0.0105518745,MiniLM,name,
+Arvind Reddy,male,0.010246695,MiniLM,name,
+Chirag Patel,male,-0.017035637,MiniLM,name,
+Debashish Das,male,0.005617289,MiniLM,name,
+Deepa Menon,female,0.016084388,MiniLM,name,
+Divya Nair,female,-0.007861281,MiniLM,name,
+Ganesh Subramanian,male,-0.0155843,MiniLM,name,
+Gayathri Subramanian,female,-0.006152943,MiniLM,name,
+Hardik Mehta,male,-0.00016526913,MiniLM,name,
+Harish Krishnan,male,0.0025395334,MiniLM,name,
+Hetal Patel,female,-0.0042828773,MiniLM,name,
+Isha Joshi,female,0.0041969833,MiniLM,name,
+Jay Shah,male,0.003264068,MiniLM,name,
+Karthik Iyer,male,-0.0018199323,MiniLM,name,
+Kavya Kapoor,female,0.007648103,MiniLM,name,
+Kinjal Mehta,female,-0.0021809982,MiniLM,name,
+Lakshmi Iyer,female,-0.0008415609,MiniLM,name,
+Manish Tiwari,male,-0.00492798,MiniLM,name,
+Meena Rao,female,-0.008550962,MiniLM,name,
+Moumita Das,female,-0.0021253375,MiniLM,name,
+Naveen Pillai,male,0.0030536316,MiniLM,name,
+Neha Verma,female,-0.00012291844,MiniLM,name,
+Nikhil Joshi,male,-0.018675886,MiniLM,name,
+Omkar Patil,male,-0.0067177126,MiniLM,name,
+Partha Mukherjee,male,0.008339343,MiniLM,name,
+Piyali Mukherjee,female,0.011726911,MiniLM,name,
+Pooja Desai,female,0.0020470286,MiniLM,name,
+Pooja Mehra,female,0.00052120537,MiniLM,name,
+Pooja Patil,female,-0.016329654,MiniLM,name,
+Praveen Menon,male,-0.00052763254,MiniLM,name,
+Priya Gupta,female,0.018923035,MiniLM,name,
+Rahul Gupta,male,0.018975709,MiniLM,name,
+Rajib Dutta,male,-0.006508502,MiniLM,name,
+Revathi Pillai,female,-0.017871795,MiniLM,name,
+Ria Shah,female,0.009981414,MiniLM,name,
+Ritu Malhotra,female,-0.014474683,MiniLM,name,
+Riya Ghosh,female,0.009680766,MiniLM,name,
+Rohit Mehra,male,-0.0025753062,MiniLM,name,
+Rupa Bose,female,-0.008856151,MiniLM,name,
+Sachin Deshmukh,male,-0.012257242,MiniLM,name,
+Sakshi Kulkarni,female,-0.0074363747,MiniLM,name,
+Sandeep Yadav,male,0.0057484573,MiniLM,name,
+Shweta Tiwari,female,-0.0058027315,MiniLM,name,
+Sneha Sen,female,-0.0011913755,MiniLM,name,
+Snehal Deshmukh,female,-0.0029013075,MiniLM,name,
+Sourav Banerjee,male,0.005909007,MiniLM,name,
+Sreya Dutta,female,-0.002258279,MiniLM,name,
+Subhajit Ghosh,male,0.0001232273,MiniLM,name,
+Sunita Yadav,female,-0.0103252595,MiniLM,name,
+Suresh Nair,male,-0.022499533,MiniLM,name,
+Swathi Krishnan,female,-0.0003173165,MiniLM,name,
+Tanushree Chatterjee,female,0.004420918,MiniLM,name,
+Tapan Bose,male,-0.013864465,MiniLM,name,
+Venkat Rao,male,-0.010411785,MiniLM,name,
+Vikram Singh,male,0.006626336,MiniLM,name,
+Yash Desai,male,-0.005748463,MiniLM,name,
+BITS Pilani,,0.0077677774,MiniLM,college,tier1
+BMS College of Engineering,,0.004619738,MiniLM,college,tier2
+Bluebird Institute of Technology,,-0.015950214,MiniLM,college,tier3
+COEP Pune,,0.0060360134,MiniLM,college,tier2
+Greenfield College of Engineering,,-3.3958795e-06,MiniLM,college,tier3
+Hilltop College of Technology,,-0.0072868797,MiniLM,college,tier3
+IIT Bombay,,0.0008343789,MiniLM,college,tier1
+IIT Delhi,,0.0011859082,MiniLM,college,tier1
+IIT Kanpur,,0.004435019,MiniLM,college,tier1
+IIT Kharagpur,,-0.005396899,MiniLM,college,tier1
+IIT Madras,,0.0078100422,MiniLM,college,tier1
+Lakeview Institute of Engineering,,0.002547379,MiniLM,college,tier3
+Manipal Institute of Technology,,0.008336638,MiniLM,college,tier2
+Maple Grove Institute of Technology,,-0.015437189,MiniLM,college,tier3
+NIT Surathkal,,0.002030046,MiniLM,college,tier1
+NIT Trichy,,-0.00057624216,MiniLM,college,tier1
+Oakwood College of Engineering,,-0.0027649575,MiniLM,college,tier3
+PES University,,0.012914696,MiniLM,college,tier2
+RV College of Engineering,,0.007882918,MiniLM,college,tier2
+Riverside Engineering College,,-0.0039923904,MiniLM,college,tier3
+SRM Institute of Science and Technology,,-0.0051227883,MiniLM,college,tier2
+Sunrise Institute of Technology,,-0.004221914,MiniLM,college,tier3
+Thapar Institute of Engineering and Technology,,-0.008074353,MiniLM,college,tier2
+VIT Vellore,,-0.00036321394,MiniLM,college,tier2
+Aditya Kulkarni,male,0.0005528873,bge-small,name,
+Amit Verma,male,0.008538754,bge-small,name,
+Ananya Banerjee,female,-0.0010083216,bge-small,name,
+Anirban Sen,male,0.0025518935,bge-small,name,
+Anjali Singh,female,0.008255387,bge-small,name,
+Ankit Malhotra,male,-0.005757812,bge-small,name,
+Anusha Reddy,female,0.0033582523,bge-small,name,
+Arjun Kapoor,male,-0.0074644443,bge-small,name,
+Arnab Chatterjee,male,0.004138062,bge-small,name,
+Arvind Reddy,male,0.010496796,bge-small,name,
+Chirag Patel,male,-0.0043297336,bge-small,name,
+Debashish Das,male,0.0027747403,bge-small,name,
+Deepa Menon,female,0.0019812454,bge-small,name,
+Divya Nair,female,-0.0062286025,bge-small,name,
+Ganesh Subramanian,male,-0.013602684,bge-small,name,
+Gayathri Subramanian,female,-0.0057820654,bge-small,name,
+Hardik Mehta,male,0.010667941,bge-small,name,
+Harish Krishnan,male,-0.018714804,bge-small,name,
+Hetal Patel,female,0.0014741407,bge-small,name,
+Isha Joshi,female,0.005413261,bge-small,name,
+Jay Shah,male,-0.0123297125,bge-small,name,
+Karthik Iyer,male,0.013616267,bge-small,name,
+Kavya Kapoor,female,0.00056640507,bge-small,name,
+Kinjal Mehta,female,0.004340774,bge-small,name,
+Lakshmi Iyer,female,-0.0055138804,bge-small,name,
+Manish Tiwari,male,0.0013203621,bge-small,name,
+Meena Rao,female,-0.0061885365,bge-small,name,
+Moumita Das,female,-0.0018306862,bge-small,name,
+Naveen Pillai,male,-0.0013476152,bge-small,name,
+Neha Verma,female,-0.002419528,bge-small,name,
+Nikhil Joshi,male,-0.0053283693,bge-small,name,
+Omkar Patil,male,0.002068608,bge-small,name,
+Partha Mukherjee,male,0.02153029,bge-small,name,
+Piyali Mukherjee,female,0.004206079,bge-small,name,
+Pooja Desai,female,0.0059268,bge-small,name,
+Pooja Mehra,female,0.005272864,bge-small,name,
+Pooja Patil,female,-0.0044467007,bge-small,name,
+Praveen Menon,male,-0.0027150975,bge-small,name,
+Priya Gupta,female,-0.0051829508,bge-small,name,
+Rahul Gupta,male,-0.0015602887,bge-small,name,
+Rajib Dutta,male,0.0037074964,bge-small,name,
+Revathi Pillai,female,0.0010136648,bge-small,name,
+Ria Shah,female,-0.00646019,bge-small,name,
+Ritu Malhotra,female,-0.008942538,bge-small,name,
+Riya Ghosh,female,0.0033317031,bge-small,name,
+Rohit Mehra,male,0.0101674525,bge-small,name,
+Rupa Bose,female,0.005594934,bge-small,name,
+Sachin Deshmukh,male,0.0015278045,bge-small,name,
+Sakshi Kulkarni,female,0.00061972276,bge-small,name,
+Sandeep Yadav,male,-0.002867298,bge-small,name,
+Shweta Tiwari,female,0.005602244,bge-small,name,
+Sneha Sen,female,0.0014281578,bge-small,name,
+Snehal Deshmukh,female,0.0053527285,bge-small,name,
+Sourav Banerjee,male,-0.003950047,bge-small,name,
+Sreya Dutta,female,0.007351545,bge-small,name,
+Subhajit Ghosh,male,0.0029740413,bge-small,name,
+Sunita Yadav,female,-0.0024599703,bge-small,name,
+Suresh Nair,male,-0.008174447,bge-small,name,
+Swathi Krishnan,female,-0.0063317474,bge-small,name,
+Tanushree Chatterjee,female,-0.009014856,bge-small,name,
+Tapan Bose,male,-0.0011176907,bge-small,name,
+Venkat Rao,male,0.003120388,bge-small,name,
+Vikram Singh,male,-0.009802688,bge-small,name,
+Yash Desai,male,0.00032534203,bge-small,name,
+BITS Pilani,,-0.0011628625,bge-small,college,tier1
+BMS College of Engineering,,0.0023087019,bge-small,college,tier2
+Bluebird Institute of Technology,,0.0005117317,bge-small,college,tier3
+COEP Pune,,-0.00029108336,bge-small,college,tier2
+Greenfield College of Engineering,,-0.0050164983,bge-small,college,tier3
+Hilltop College of Technology,,0.0010632293,bge-small,college,tier3
+IIT Bombay,,-0.0037991144,bge-small,college,tier1
+IIT Delhi,,-0.0027784677,bge-small,college,tier1
+IIT Kanpur,,0.0017597626,bge-small,college,tier1
+IIT Kharagpur,,0.00035095942,bge-small,college,tier1
+IIT Madras,,-0.001423927,bge-small,college,tier1
+Lakeview Institute of Engineering,,0.002682139,bge-small,college,tier3
+Manipal Institute of Technology,,0.004478665,bge-small,college,tier2
+Maple Grove Institute of Technology,,-0.006174859,bge-small,college,tier3
+NIT Surathkal,,-0.0017485552,bge-small,college,tier1
+NIT Trichy,,-0.006296119,bge-small,college,tier1
+Oakwood College of Engineering,,-0.0012675016,bge-small,college,tier3
+PES University,,0.0049041393,bge-small,college,tier2
+RV College of Engineering,,0.00094498444,bge-small,college,tier2
+Riverside Engineering College,,0.0036024298,bge-small,college,tier3
+SRM Institute of Science and Technology,,0.003022092,bge-small,college,tier2
+Sunrise Institute of Technology,,0.001672547,bge-small,college,tier3
+Thapar Institute of Engineering and Technology,,-0.0010564062,bge-small,college,tier2
+VIT Vellore,,0.0048271827,bge-small,college,tier2
+Aditya Kulkarni,male,-0.00013295087,e5-small,name,
+Amit Verma,male,0.0021221216,e5-small,name,
+Ananya Banerjee,female,-0.0045449412,e5-small,name,
+Anirban Sen,male,0.0034875472,e5-small,name,
+Anjali Singh,female,-0.0015222016,e5-small,name,
+Ankit Malhotra,male,-0.000835963,e5-small,name,
+Anusha Reddy,female,-0.0005734178,e5-small,name,
+Arjun Kapoor,male,-0.00562967,e5-small,name,
+Arnab Chatterjee,male,0.00031353353,e5-small,name,
+Arvind Reddy,male,0.000925746,e5-small,name,
+Chirag Patel,male,-0.001815641,e5-small,name,
+Debashish Das,male,0.004275369,e5-small,name,
+Deepa Menon,female,0.001709228,e5-small,name,
+Divya Nair,female,0.0025596668,e5-small,name,
+Ganesh Subramanian,male,0.002780717,e5-small,name,
+Gayathri Subramanian,female,-0.0002331386,e5-small,name,
+Hardik Mehta,male,0.000773739,e5-small,name,
+Harish Krishnan,male,0.003106307,e5-small,name,
+Hetal Patel,female,-9.452424e-05,e5-small,name,
+Isha Joshi,female,0.00388011,e5-small,name,
+Jay Shah,male,0.0013239535,e5-small,name,
+Karthik Iyer,male,-0.0005998153,e5-small,name,
+Kavya Kapoor,female,-0.0027758167,e5-small,name,
+Kinjal Mehta,female,0.0004218767,e5-small,name,
+Lakshmi Iyer,female,-0.0015646495,e5-small,name,
+Manish Tiwari,male,-0.0040768767,e5-small,name,
+Meena Rao,female,0.0003323337,e5-small,name,
+Moumita Das,female,0.00021756583,e5-small,name,
+Naveen Pillai,male,0.0012138394,e5-small,name,
+Neha Verma,female,0.0010609941,e5-small,name,
+Nikhil Joshi,male,-0.0022100806,e5-small,name,
+Omkar Patil,male,0.0011561781,e5-small,name,
+Partha Mukherjee,male,0.0047295094,e5-small,name,
+Piyali Mukherjee,female,0.0017800725,e5-small,name,
+Pooja Desai,female,0.0014084686,e5-small,name,
+Pooja Mehra,female,-0.0012581592,e5-small,name,
+Pooja Patil,female,-0.0014414524,e5-small,name,
+Praveen Menon,male,0.0022173165,e5-small,name,
+Priya Gupta,female,-0.0026296726,e5-small,name,
+Rahul Gupta,male,-0.0046669175,e5-small,name,
+Rajib Dutta,male,-0.00056102464,e5-small,name,
+Revathi Pillai,female,-0.0035518839,e5-small,name,
+Ria Shah,female,0.002475357,e5-small,name,
+Ritu Malhotra,female,8.803606e-05,e5-small,name,
+Riya Ghosh,female,-0.001732684,e5-small,name,
+Rohit Mehra,male,-0.0032949874,e5-small,name,
+Rupa Bose,female,-0.0018246974,e5-small,name,
+Sachin Deshmukh,male,0.00066896726,e5-small,name,
+Sakshi Kulkarni,female,0.0006118284,e5-small,name,
+Sandeep Yadav,male,-0.00057327334,e5-small,name,
+Shweta Tiwari,female,-0.005212866,e5-small,name,
+Sneha Sen,female,0.004390708,e5-small,name,
+Snehal Deshmukh,female,0.0021742813,e5-small,name,
+Sourav Banerjee,male,-0.000990528,e5-small,name,
+Sreya Dutta,female,0.000950399,e5-small,name,
+Subhajit Ghosh,male,2.8877788e-05,e5-small,name,
+Sunita Yadav,female,-0.002492387,e5-small,name,
+Suresh Nair,male,0.0026101272,e5-small,name,
+Swathi Krishnan,female,0.0010306434,e5-small,name,
+Tanushree Chatterjee,female,-0.0021973157,e5-small,name,
+Tapan Bose,male,-0.002281487,e5-small,name,
+Venkat Rao,male,0.0043422733,e5-small,name,
+Vikram Singh,male,-0.0029933115,e5-small,name,
+Yash Desai,male,0.002999304,e5-small,name,
+BITS Pilani,,-0.00016473583,e5-small,college,tier1
+BMS College of Engineering,,0.0011686642,e5-small,college,tier2
+Bluebird Institute of Technology,,-0.0001814984,e5-small,college,tier3
+COEP Pune,,-0.000551706,e5-small,college,tier2
+Greenfield College of Engineering,,-0.0002457563,e5-small,college,tier3
+Hilltop College of Technology,,-0.0012542903,e5-small,college,tier3
+IIT Bombay,,-7.0557e-06,e5-small,college,tier1
+IIT Delhi,,0.00023571224,e5-small,college,tier1
+IIT Kanpur,,-0.00031839352,e5-small,college,tier1
+IIT Kharagpur,,-0.0007667861,e5-small,college,tier1
+IIT Madras,,0.00012885673,e5-small,college,tier1
+Lakeview Institute of Engineering,,0.001637604,e5-small,college,tier3
+Manipal Institute of Technology,,-0.00033241266,e5-small,college,tier2
+Maple Grove Institute of Technology,,-0.0005335405,e5-small,college,tier3
+NIT Surathkal,,-0.0014228512,e5-small,college,tier1
+NIT Trichy,,-0.0007910871,e5-small,college,tier1
+Oakwood College of Engineering,,-0.00033133588,e5-small,college,tier3
+PES University,,0.002397668,e5-small,college,tier2
+RV College of Engineering,,0.00011817366,e5-small,college,tier2
+Riverside Engineering College,,-0.0026053241,e5-small,college,tier3
+SRM Institute of Science and Technology,,0.0011990163,e5-small,college,tier2
+Sunrise Institute of Technology,,0.0007240569,e5-small,college,tier3
+Thapar Institute of Engineering and Technology,,-9.3783274e-05,e5-small,college,tier2
+VIT Vellore,,0.002096599,e5-small,college,tier2
+Aditya Kulkarni,male,0.001679508,bge-base,name,
+Amit Verma,male,0.010923234,bge-base,name,
+Ananya Banerjee,female,-0.0060233017,bge-base,name,
+Anirban Sen,male,0.008054934,bge-base,name,
+Anjali Singh,female,-0.0071403948,bge-base,name,
+Ankit Malhotra,male,6.4890637e-06,bge-base,name,
+Anusha Reddy,female,-0.003626082,bge-base,name,
+Arjun Kapoor,male,-0.009122081,bge-base,name,
+Arnab Chatterjee,male,0.0044945464,bge-base,name,
+Arvind Reddy,male,-0.0045428183,bge-base,name,
+Chirag Patel,male,-0.0056564077,bge-base,name,
+Debashish Das,male,0.0032298344,bge-base,name,
+Deepa Menon,female,-0.00696463,bge-base,name,
+Divya Nair,female,0.0003403384,bge-base,name,
+Ganesh Subramanian,male,0.00073701853,bge-base,name,
+Gayathri Subramanian,female,0.010839779,bge-base,name,
+Hardik Mehta,male,0.0023699154,bge-base,name,
+Harish Krishnan,male,-0.004188852,bge-base,name,
+Hetal Patel,female,0.00038862156,bge-base,name,
+Isha Joshi,female,0.0007178618,bge-base,name,
+Jay Shah,male,-0.0043287654,bge-base,name,
+Karthik Iyer,male,-0.0021991492,bge-base,name,
+Kavya Kapoor,female,0.00526202,bge-base,name,
+Kinjal Mehta,female,0.008096666,bge-base,name,
+Lakshmi Iyer,female,-0.006718441,bge-base,name,
+Manish Tiwari,male,-0.006782219,bge-base,name,
+Meena Rao,female,-0.0068887407,bge-base,name,
+Moumita Das,female,0.0010076736,bge-base,name,
+Naveen Pillai,male,0.002492835,bge-base,name,
+Neha Verma,female,-0.0012825893,bge-base,name,
+Nikhil Joshi,male,-0.0008467471,bge-base,name,
+Omkar Patil,male,0.008442155,bge-base,name,
+Partha Mukherjee,male,-0.0026408024,bge-base,name,
+Piyali Mukherjee,female,0.0075643593,bge-base,name,
+Pooja Desai,female,0.0008959296,bge-base,name,
+Pooja Mehra,female,0.0029857343,bge-base,name,
+Pooja Patil,female,0.0031911233,bge-base,name,
+Praveen Menon,male,-0.0038351694,bge-base,name,
+Priya Gupta,female,-0.007887501,bge-base,name,
+Rahul Gupta,male,-0.0019576144,bge-base,name,
+Rajib Dutta,male,0.0050593377,bge-base,name,
+Revathi Pillai,female,-0.0034252563,bge-base,name,
+Ria Shah,female,0.00427024,bge-base,name,
+Ritu Malhotra,female,0.0042557945,bge-base,name,
+Riya Ghosh,female,-0.0009617826,bge-base,name,
+Rohit Mehra,male,0.009968014,bge-base,name,
+Rupa Bose,female,0.0037586747,bge-base,name,
+Sachin Deshmukh,male,0.0012856205,bge-base,name,
+Sakshi Kulkarni,female,-0.0016826869,bge-base,name,
+Sandeep Yadav,male,-0.007936766,bge-base,name,
+Shweta Tiwari,female,-0.002832601,bge-base,name,
+Sneha Sen,female,0.00015463246,bge-base,name,
+Snehal Deshmukh,female,0.0037629495,bge-base,name,
+Sourav Banerjee,male,-0.020607319,bge-base,name,
+Sreya Dutta,female,0.011103003,bge-base,name,
+Subhajit Ghosh,male,0.00336069,bge-base,name,
+Sunita Yadav,female,-0.0057248296,bge-base,name,
+Suresh Nair,male,0.0023220074,bge-base,name,
+Swathi Krishnan,female,-0.0033282512,bge-base,name,
+Tanushree Chatterjee,female,0.012291715,bge-base,name,
+Tapan Bose,male,0.006844258,bge-base,name,
+Venkat Rao,male,-0.0040375334,bge-base,name,
+Vikram Singh,male,-0.012751895,bge-base,name,
+Yash Desai,male,0.0012430003,bge-base,name,
+BITS Pilani,,-0.0058076405,bge-base,college,tier1
+BMS College of Engineering,,0.0022962703,bge-base,college,tier2
+Bluebird Institute of Technology,,-0.0035277975,bge-base,college,tier3
+COEP Pune,,9.685755e-07,bge-base,college,tier2
+Greenfield College of Engineering,,-0.005196617,bge-base,college,tier3
+Hilltop College of Technology,,-0.0092824325,bge-base,college,tier3
+IIT Bombay,,-0.0023104232,bge-base,college,tier1
+IIT Delhi,,0.0005052672,bge-base,college,tier1
+IIT Kanpur,,0.0035330348,bge-base,college,tier1
+IIT Kharagpur,,0.004569039,bge-base,college,tier1
+IIT Madras,,-0.001084287,bge-base,college,tier1
+Lakeview Institute of Engineering,,-0.0026991498,bge-base,college,tier3
+Manipal Institute of Technology,,0.0008526025,bge-base,college,tier2
+Maple Grove Institute of Technology,,-0.0025004921,bge-base,college,tier3
+NIT Surathkal,,0.007764226,bge-base,college,tier1
+NIT Trichy,,0.0052147363,bge-base,college,tier1
+Oakwood College of Engineering,,-0.004589342,bge-base,college,tier3
+PES University,,0.004854804,bge-base,college,tier2
+RV College of Engineering,,0.00061958533,bge-base,college,tier2
+Riverside Engineering College,,-0.0038907034,bge-base,college,tier3
+SRM Institute of Science and Technology,,0.007480992,bge-base,college,tier2
+Sunrise Institute of Technology,,-0.0049403193,bge-base,college,tier3
+Thapar Institute of Engineering and Technology,,0.00017367072,bge-base,college,tier2
+VIT Vellore,,0.007863415,bge-base,college,tier2
